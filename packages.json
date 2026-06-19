@@ -1,7 +1,23 @@
 [
   {
+    "package": "benviplot",
+    "url": "https://github.com/viniciusoike/benviplot"
+  },
+  {
     "package": "ekioplot",
     "url": "https://github.com/viniciusoike/ekioplot"
+  },
+  {
+    "package": "claudeplot",
+    "url": "https://github.com/viniciusoike/claudeplot"
+  },
+  {
+    "package": "ggconsulting",
+    "url": "https://github.com/viniciusoike/ggconsulting"
+  },
+  {
+    "package": "infosigasp",
+    "url": "https://github.com/viniciusoike/infosigasp"
   },
   {
     "package": "metrosp",
